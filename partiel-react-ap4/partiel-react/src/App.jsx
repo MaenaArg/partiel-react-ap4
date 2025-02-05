@@ -3,6 +3,7 @@ import Home from "./pages/Home";
 import NotFound from "./pages/NotFound";
 import './App.css'
 import './css/style.css'
+import AfficheFilm from './components/AfficheFilm/AfficheFilm.jsx'
 
 function App() {
     return (
