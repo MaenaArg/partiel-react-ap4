@@ -1,0 +1,16 @@
+[
+  {
+    "movieId": 1,
+    "titre": "Bogota",
+    "date": "2024-12-31",
+    "image": "/Bogota.jpg",
+    "pourcentage": 85
+  },
+  {
+    "movieId": 2,
+    "titre": "Wolf Man",
+    "date": "2025-01-15",
+    "image": "/wolfman.jpg",
+    "pourcentage": 90
+  }
+]
